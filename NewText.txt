@@ -1,0 +1,22 @@
+[
+  {
+    "Author": "InsertNameHere",
+    "Name": "InsertNameHere3",
+    "Punchline": "InsertPunchlineHere.",
+    "Description": "可能是一个PVP插件",
+    "Tags": [
+        "pvp"
+    ],
+    "InternalName": "InsertNameHere3",
+    "RepoUrl": "https://github.com/transparent-duck/InsertNameHere3",
+    "DownloadCount": 1,
+    "LastUpdate": 1710602700,
+    "DownloadLinkInstall": "https://github.com/transparent-duck/InsertNameHere3/raw/refs/heads/main/InsertNameHere3.zip",
+    "DownloadLinkUpdate": "https://github.com/transparent-duck/InsertNameHere3/raw/refs/heads/main/InsertNameHere3.zip",
+    "AssemblyVersion": "1.0.0.3",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "12",
+    "Changelog": "Oh fresh init",
+    "IconUrl": "https://pbs.twimg.com/profile_images/1654224891632074754/pMeUysz0_400x400.png"
+  }
+]
