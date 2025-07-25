@@ -13,7 +13,7 @@
     "LastUpdate": 1710602700,
     "DownloadLinkInstall": "https://github.com/transparent-duck/InsertNameHere3/raw/refs/heads/main/InsertNameHere3.zip",
     "DownloadLinkUpdate": "https://github.com/transparent-duck/InsertNameHere3/raw/refs/heads/main/InsertNameHere3.zip",
-    "AssemblyVersion": "1.0.0.9",
+    "AssemblyVersion": "1.0.0.10",
     "ApplicableVersion": "any",
     "DalamudApiLevel": "12",
     "Changelog": "添加了替代距離計算, 距離補正和職業選擇",
