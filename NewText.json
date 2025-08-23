@@ -13,10 +13,10 @@
     "LastUpdate": 1710602700,
     "DownloadLinkInstall": "https://github.com/transparent-duck/InsertNameHere3/raw/refs/heads/main/InsertNameHere3.zip",
     "DownloadLinkUpdate": "https://github.com/transparent-duck/InsertNameHere3/raw/refs/heads/main/InsertNameHere3.zip",
-    "AssemblyVersion": "1.0.0.14",
+    "AssemblyVersion": "1.0.0.15",
     "ApplicableVersion": "any",
     "DalamudApiLevel": "12",
-    "Changelog": "更新了战士, DK蛮荒崩裂/跳斩目标修正",
+    "Changelog": "一些小更新",
     "IconUrl": "https://pbs.twimg.com/profile_images/1654224891632074754/pMeUysz0_400x400.png"
   }
 
