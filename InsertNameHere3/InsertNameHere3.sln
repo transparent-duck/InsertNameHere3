@@ -1,0 +1,30 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InsertNameHere3", "InsertNameHere3\InsertNameHere3.csproj", "{97084273-E8A2-4953-A546-283C0108652B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ECommons", "ECommons\ECommons\ECommons.csproj", "{B8C7B3A0-7F5A-4F4A-8B1A-1234567890AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|x64 = Release|x64
+		InsertNameHere3|x64 = InsertNameHere3|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97084273-E8A2-4953-A546-283C0108652B}.Release|x64.ActiveCfg = Release|x64
+		{97084273-E8A2-4953-A546-283C0108652B}.Release|x64.Build.0 = Release|x64
+		{97084273-E8A2-4953-A546-283C0108652B}.InsertNameHere3|x64.ActiveCfg = InsertNameHere3|x64
+		{97084273-E8A2-4953-A546-283C0108652B}.InsertNameHere3|x64.Build.0 = InsertNameHere3|x64
+		{B8C7B3A0-7F5A-4F4A-8B1A-1234567890AB}.Release|x64.ActiveCfg = Release|x64
+		{B8C7B3A0-7F5A-4F4A-8B1A-1234567890AB}.Release|x64.Build.0 = Release|x64
+		{B8C7B3A0-7F5A-4F4A-8B1A-1234567890AB}.InsertNameHere3|x64.ActiveCfg = Release|x64
+		{B8C7B3A0-7F5A-4F4A-8B1A-1234567890AB}.InsertNameHere3|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6848E78-8761-408C-BAF2-343EBE467E03}
+	EndGlobalSection
+EndGlobal
